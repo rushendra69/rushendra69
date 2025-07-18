@@ -58,3 +58,30 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=
+
+
+---
+
+### 📄 Publications
+
+-   **Cryptographic Pixel Manipulation for Visual Security**
+    -   Published in an **IEEE International Conference**. Implemented a pixel-level Caesar cipher encryption for lightweight visual security.
+-   **Advanced Hybrid Machine Learning Approaches for Detecting Plant Leaf Diseases**
+    -   Published in the **International Journal of All Research Education and Scientific Methods**. Achieved **96.1% accuracy** in plant disease detection using a Transfer Learning model with Inception V3.
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushendra&show_icons=true&theme=radical" alt="Rushendra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushendra&layout=compact&theme=radical" alt="Rushendra's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushendra&theme=dark" alt="Rushendra's GitHub Streak" />
+</p>
+
+---
+
+### ⭐ That's all about me! Thanks for visiting. ⭐
