@@ -52,37 +52,95 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
 </p>
 
----
 ### Developer Tools:
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=
-
-
----
-
-### 📄 Publications
-
--   **Cryptographic Pixel Manipulation for Visual Security**
-    -   Published in an **IEEE International Conference**. Implemented a pixel-level Caesar cipher encryption for lightweight visual security.
--   **Advanced Hybrid Machine Learning Approaches for Detecting Plant Leaf Diseases**
-    -   Published in the **International Journal of All Research Education and Scientific Methods**. Achieved **96.1% accuracy** in plant disease detection using a Transfer Learning model with Inception V3.
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushendra&show_icons=true&theme=radical" alt="Rushendra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushendra&layout=compact&theme=radical" alt="Rushendra's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushendra&theme=dark" alt="Rushendra's GitHub Streak" />
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"></a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></a>
 </p>
 
 ---
 
-### ⭐ That's all about me! Thanks for visiting. ⭐
+## 💡 Highlighted Projects
+
+<!-- Remember to replace these with your actual project links! -->
+<table>
+  <tr>
+    <td width="33%">
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1622383635390-c6d9a15620a5?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Plant Leaf Disease Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.8; margin-bottom:10px;" />
+      </p>
+      <h3 align="center">Plant Disease Detection</h3>
+      <p align="center">
+        Developed an advanced hybrid model using Transfer Learning (Inception V3) to detect plant leaf diseases, achieving <b>96.1% accuracy</b>. Published research.
+        <br/><br/>
+        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE]" target="_blank">Github</a>
+      </p>
+    </td>
+    <td width="33%">
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1594924248834-58e763132712?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Path Navigation Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.8; margin-bottom:10px;" />
+      </p>
+      <h3 align="center">Pathfinding for Autonomous Agents</h3>
+      <p align="center">
+        Created a path navigation tool using Python, implementing Dijkstra's and the Haversine algorithm to compute and visualize shortest paths for 200+ data points.
+        <br/><br/>
+        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE]" target="_blank">GitHub</a>
+      </p>
+    </td>
+    <td width="33%">
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Food Recipes App Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.8; margin-bottom:10px;" />
+      </p>
+      <h3 align="center">Food Recipes Web App</h3>
+      <p align="center">
+        Built a React.js app delivering 100+ real-time recipes and videos via API. Boosted efficiency by 40% using React Hooks for effective state management.
+        <br/><br/>
+        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE]" target="_blank">Github</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📄 Publications
+
+*   **Advanced Hybrid Machine Learning Approaches for Detecting Plant Leaf Diseases**  
+    *Published in the International Journal of All Research Education and Scientific Methods (Apr 2024 – Jul 2024).*  
+    Developed a Transfer Learning model with Inception V3 that achieved 96.1% accuracy in plant disease detection.  
+    🔗 **[Link]** <!-- Add link to the publication or project here -->
+
+*   **Cryptographic Pixel Manipulation for Visual Security**  
+    *Presented at an IEEE International Conference (Aug 2024 – Jan 2024).*  
+    Implemented a novel, lightweight, pixel-level Caesar cipher encryption for visual security, ideal for low-resource applications.  
+    🔗 **[Link]** <!-- Add link to the publication or project here -->
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushendra&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rushendra's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushendra&layout=compact&theme=tokyonight&hide_border=true" alt="Rushendra's Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushendra&theme=tokyonight&hide_border=true" alt="Rushendra's GitHub Streak"/>
+</p>
+
+---
+
+## 📜 Random Dev Quote:
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+>
+> *- Martin Fowler*
+
+<p align="center">
+  <em>⭐️ From the profile of Rushendra ⭐️</em>
+</p>
