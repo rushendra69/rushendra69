@@ -73,7 +73,7 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGxhbnRzfGVufDB8fDB8fHww" alt="Plant Leaf Disease Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.8; margin-bottom:10px;" />
+        <img src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2813&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Plant Leaf Disease Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.8; margin-bottom:10px;" />
       </p>
       <h3 align="center">Plant Disease Detection</h3>
       <p align="center">
@@ -84,7 +84,7 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
     </td>
     <td width="33%">
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1594924248834-58e763132712?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Path Navigation Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.8; margin-bottom:10px;" />
+        <img src="https://images.unsplash.com/photo-1465447142348-e9952c393450?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9hZHN8ZW58MHx8MHx8fDA%3D" alt="Path Navigation Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.8; margin-bottom:10px;" />
       </p>
       <h3 align="center">Pathfinding for Autonomous Agents</h3>
       <p align="center">
