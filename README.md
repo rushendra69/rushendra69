@@ -9,6 +9,7 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
   <a href="mailto:rushendrasai.chidipothu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rushendra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Rushendra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/c_rushendra_?igsh=ZTJuZjF0d2ttcDNm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </p>
 
 
@@ -73,7 +74,7 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
   <tr>
     <td width="33%">
       <p align="center">
-        <img src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2813&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Plant Leaf Disease Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.8; margin-bottom:10px;" />
+        <img src="https://images.unsplash.com/photo-1601287293804-9a87af20db9f?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Plant Leaf Disease Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.8; margin-bottom:10px;" />
       </p>
       <h3 align="center">Plant Disease Detection</h3>
       <p align="center">
