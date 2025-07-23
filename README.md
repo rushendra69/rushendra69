@@ -123,6 +123,7 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
     Implemented a novel, lightweight, pixel-level Caesar cipher encryption for visual security, ideal for low-resource applications.  
     🔗 **[Link]** <!-- Add link to the publication or project here -->
 
+*
 ---
 
 ## 📊 GitHub Stats & Activity
