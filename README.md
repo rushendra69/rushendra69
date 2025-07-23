@@ -5,6 +5,7 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
 
 ---
 
+
 <p align="center">
   <a href="mailto:rushendrasai.chidipothu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rushendra-chidipothu-42065521b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
