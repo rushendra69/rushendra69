@@ -3,7 +3,7 @@
 
 Driven Computer Science student specializing in **AI/ML** and **Full-Stack Development**. Experienced in building scalable web applications, architecting robust back-end systems, and developing innovative machine learning models. Passionate about leveraging technology to create impactful, real-world solutions.
 
---
+
 
 
 <p align="center">
