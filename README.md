@@ -3,9 +3,6 @@
 
 Driven Computer Science student specializing in **AI/ML** and **Full-Stack Development**. Experienced in building scalable web applications, architecting robust back-end systems, and developing innovative machine learning models. Passionate about leveraging technology to create impactful, real-world solutions.
 
-
-
-
 <p align="center">
   <a href="mailto:rushendrasai.chidipothu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rushendra-chidipothu-42065521b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
