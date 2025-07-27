@@ -11,7 +11,6 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
 </p>
 
 
-
 ## 🚀 About Me
 
 <picture>
