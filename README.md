@@ -119,16 +119,6 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
     Implemented a novel, lightweight, pixel-level Caesar cipher encryption for visual security, ideal for low-resource applications.  
     🔗 **[Link]** <!-- Add link to the publication or project here -->
 
----
-
-## 📊 GitHub Stats & Activity
-
-#<p align="center">
-  #<img src="https://github-readme-stats.vercel.app/api?username=Rushendra&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rushendra's GitHub Stats"/>
-  #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushendra&layout=compact&theme=tokyonight&hide_border=true" alt="Rushendra's Top Languages"/>
-#<p align="center">
-  #<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushendra&theme=tokyonight&hide_border=true" alt="Rushendra's GitHub Streak"/>
-#</p>
 
 ---
 
