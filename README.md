@@ -9,6 +9,7 @@ Driven Computer Science student specializing in **AI/ML** and **Full-Stack Devel
   <a href="https://github.com/Rushendra69"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.instagram.com/c_rushendra_?igsh=ZTJuZjF0d2ttcDNm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </p>
+
     
 ## 🚀 About Me
 
